@@ -1,0 +1,63 @@
+.gibcnteiner{
+    background-color: gray;
+}
+.cars1{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(255, 254, 254);
+    box-shadow: 0 0 20px black;
+}
+.foto1{
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+    margin-top: 20px;
+    
+    
+}
+.text1{
+    margin-left: 20px;
+}
+
+.minconteiner{
+    display: flex;
+    margin-top:20px;
+    width: 400px;
+    margin-left: 20px;
+    box-shadow: 0, 0, 10px solid black;
+    
+}
+.minconteiner3{
+    display: flex;
+    gap: 20px;
+    margin-top:50px;
+    width: 200px;
+}
+.minconteiner2{
+    width: 400px;
+    margin-top: 150px;
+}
+.cars2{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    box-shadow: 0 0 20px black;
+
+}
+.cars3{
+    background-color: rgb(255, 250, 250);
+    border-radius: 20px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    box-shadow: 0 0 20px black;
+
+
+}
